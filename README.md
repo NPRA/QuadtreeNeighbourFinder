@@ -10,9 +10,9 @@ You can either find a specific neighbour (see below) or get all 8 neighbour tile
 
 ||||
 |:---:|:---:|:---:|
-|(LU) left-up|up|(RU) right-up|
+|(LU) left-up|(U) up|(RU) right-up|
 |left|given tile|right|
-|(LD) left-down|down|(RD) right-down|
+|(LD) left-down|(D) down|(RD) right-down|
 
             getNeighbour(QuadTreeHelper.LU, centerQT),
             getNeighbour(QuadTreeHelper.U, centerQT),
