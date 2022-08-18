@@ -11,7 +11,7 @@ You can either find a specific neighbour (see below) or get all 8 neighbour tile
 ||||
 |:---:|:---:|:---:|
 |(LU) left-up|(U) up|(RU) right-up|
-|left|given tile|right|
+|(L) left|given tile|(R) right|
 |(LD) left-down|(D) down|(RD) right-down|
 
             getNeighbour(QuadTreeHelper.LU, centerQT),
